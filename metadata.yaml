@@ -1,0 +1,32 @@
+_repo: Eldorado-b-roman_75776
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brulat, Paul
+    birthdate: 1866
+    deathdate: 1940
+    gutenberg_agent_id: '58137'
+    url: http://www.gutenberg.org/2009/agents/58137
+    wikipedia: https://fr.wikipedia.org/wiki/Paul_Brulat
+description: ''
+gutenberg_issued: '2025-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75776'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiug.30112066393965
+pgterms:marc905: 20240921043316brulat
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bJ. Ferenczi, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Eldorado : $b roman'
+url: http://www.gutenberg.org/ebooks/75776
